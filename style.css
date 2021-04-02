@@ -1,0 +1,44 @@
+.navbar-nav.navbar-end li a {
+    color: white;
+}
+
+.full-width-div {
+    position: absolute;
+    width: 100%;
+    left: 0;
+}
+
+.aboutme {
+    color:#007bff;
+}
+.round-img{
+    border-radius: 50%;
+}
+
+.borderstyle {
+    border-left: 3px solid #007bff;
+}
+
+.anchor-bg{
+    background-color: #007bff;
+    border-radius: 4px;
+}
+.anchor{
+    color: white;
+}
+
+.img-bt{
+    height: 10px;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 16rem;
+}
+.send{
+    width: 100%;
+    color: white;
+    background-color: #007bff;
+    border: none;
+    border-radius: 4px;
+}
